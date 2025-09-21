@@ -1,0 +1,12 @@
+dataset/
+runs/
+
+# Ignore all .env files
+.env
+*.env
+
+# Saved model files
+*.h5
+*.ckpt
+*.pt
+*.pth
